@@ -19,7 +19,7 @@ This project simulates a real-world parking lot system and demonstrates practica
     
   💠Menu-driven console interaction
 
-**# Technologies Used**
+**Technologies Used**
 
   💠Java (Core Java)
     
@@ -31,7 +31,7 @@ This project simulates a real-world parking lot system and demonstrates practica
     
   💠Console-based User Interface
 
-**# Learning Outcomes**
+**Learning Outcomes**
 
   💠Gained hands-on experience in designing object-oriented systems
   
