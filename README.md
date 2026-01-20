@@ -5,7 +5,7 @@ The application follows Object-Oriented Programming principles and uses Java Col
 
 This project simulates a real-world parking lot system and demonstrates practical usage of Core Java concepts such as classes, objects, collections, exception handling, and control flow.
 
-# Key Features
+**Key Features**
 
   💠Fixed parking slot allocation
     
@@ -19,7 +19,7 @@ This project simulates a real-world parking lot system and demonstrates practica
     
   💠Menu-driven console interaction
 
-# Technologies Used
+**# Technologies Used**
 
   💠Java (Core Java)
     
@@ -31,7 +31,7 @@ This project simulates a real-world parking lot system and demonstrates practica
     
   💠Console-based User Interface
 
-# Learning Outcomes
+**# Learning Outcomes**
 
   💠Gained hands-on experience in designing object-oriented systems
   
